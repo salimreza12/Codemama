@@ -65,7 +65,7 @@ console.log("a =", a);
 console.log("b =", b);
  */
 
-//2.Positive Negative zero
+2.Positive Negative zero
 /*
 
 2.Positive Negative zero
